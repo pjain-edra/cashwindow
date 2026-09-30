@@ -12,7 +12,7 @@ Offline demonstration: `python cashwindow.py --fixture fixture.json --output dem
 
 ## Current status
 
-Offline prototype and restriction tests complete. Live SerpApi integration verified September 30, 2026 with three authenticated searches; sanitized results are in live-evidence.json. demo.html is a searchable snapshot of those results. CashWindow-Demo.mp4 is a 60-second captioned demonstration. Some broad-query results are irrelevant; search completion does not validate an opportunity. No live-query performance, cash outcomes, user adoption or completeness claims are made. No project has been submitted to the hackathon.
+Offline prototype and restriction tests complete. Live SerpApi integration verified September 30, 2026 with three authenticated searches; sanitized results are in live-evidence.json. demo.html is a searchable snapshot of those results. CashWindow-Demo.mp4 is a local terminal screen recording (under three minutes). Some broad-query results are irrelevant; search completion does not validate an opportunity. No live-query performance, cash outcomes, user adoption or completeness claims are made. No project has been submitted to the hackathon.
 
 ## Limits
 
@@ -22,4 +22,4 @@ Rules operate on snippets, not full source terms. Keyword flags are review promp
 
 Track: Knowledge & Public Interest. New project created September 30, 2026. SerpApi is central to discovery: without its live search results the tool only accepts offline fixtures. AI tools: ChatGPT/Codex for research, code, tests and documentation; disclose principal AI production. Human applicant owns accounts and performs essential authorization only.
 
-Completed: free SerpApi access, three live searches and public GitHub source. Next requirements: public demonstration video under three minutes, participant phone and years of professional experience, GitHub-authenticated submission, and acceptance of contest terms. Do not submit until these requirements are met.
+Completed: free SerpApi access, three live searches and public GitHub source. Local terminal recording: CashWindow-Demo.mp4; replay source terminal-demo.cast. Next requirements: participant phone and years of professional experience, GitHub-authenticated submission, and acceptance of contest terms. Do not submit until these requirements are met.
